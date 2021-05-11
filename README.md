@@ -9,11 +9,12 @@ node index.js
 Then u can raid now!
 New Version Every 1 weeks!
 # Commands
-Clear Roles
-Mass Roles
-Mass Channels
-Quick Settings
-Mass Message
-And Help Commands!
+- Clear Roles
+- Mass Roles
+- Mass Channels
+- Quick Settings
+- Mass Message
+- Change Server Bot Nick
+- And Help Commands!
 Its Some Commands But In Features Its will Much Commands
 So u have to wait :D

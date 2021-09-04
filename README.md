@@ -2,6 +2,13 @@
 Aquamee Raid v1.0
 The Discord Raid
 Made By Meow ku#1234
+# Update
+```
+We have a lot of updates 
+- More Config.json edit
+- Added Key information [Key: Meowku]
+- More Spam pings
+```
 # Installation
 Put everything in config.json
 Type npm install
